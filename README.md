@@ -1,4 +1,4 @@
-<img src='../images/web-developer-definition-skills-and-responsibilities-908401.png' />
+<img src='https://t4.ftcdn.net/jpg/03/08/69/75/240_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg' />
 
 ## Portfolio
 ### Intoduction
