@@ -1,4 +1,4 @@
-![Alt text](../images/web-developer-definition-skills-and-responsibilities-908401.png)
+<img src='../images/web-developer-definition-skills-and-responsibilities-908401.png' />
 
 ## Portfolio
 ### Intoduction
